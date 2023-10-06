@@ -9,6 +9,8 @@
 
 Checklist:
 - [ ] unchecked
+  - [ ] nested checklist
+    - [ ] doubled nested
 - [x] checked
 
 Unordered List:
